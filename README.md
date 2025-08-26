@@ -42,13 +42,13 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
 <br/>
 **Also using:** Pandas · NumPy · Matplotlib · Leaflet · JUnit · Mockito
+<br/>
 ### **Databases & Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
 **Cloud Platforms:** AWS · Microsoft Azure · Google Cloud Platform (GCP) · Compute Canada
-<br/>
 </div>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
