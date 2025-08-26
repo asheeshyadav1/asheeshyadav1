@@ -10,9 +10,9 @@
 
 <div align="center">
  
- ⛏️  I’m currently working at  **Beedie School of Business as an Undergraduate Research Assistant**
+ ⛏️💎 I’m currently working at  **Beedie School of Business as an Undergraduate Research Assistant**
  
-  📈  I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
+  📈📊I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
 
  </div>
  
