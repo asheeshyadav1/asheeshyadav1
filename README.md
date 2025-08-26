@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working at  **Beedie School of Business as an undergraduate research assistant**
+ ⛏️ I’m currently working at  **Beedie School of Business as an undergraduate research assistant**
  
- 🌱 I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
+  📈 I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
 
  </div>
  
@@ -30,14 +30,29 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
 
+<div align="center">
+
+### **Languages**
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,matlab" />
+
+---
+
+### **Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
 <br/>
+**Also using:** Pandas · NumPy · Matplotlib · Leaflet · JUnit · Mockito
+
+---
+
+### **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
+<br/>
+**Cloud Platforms:** AWS · Microsoft Azure · Google Cloud Platform (GCP) · Compute Canada
+
+</div>
 <hr/>
 
 <div align="center">
