@@ -37,24 +37,32 @@
 
 ### **Languages**
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,matlab" />
-<br/>
+
+---
+
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
 <br/>
-**Also using:** Pandas · NumPy · Matplotlib · Leaflet · JUnit · Mockito
-<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Mockito-4DB33D?style=for-the-badge&logo=java&logoColor=white" />
+
+---
+
 ### **Databases & Tools**
-<br/>
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
-**Cloud Platforms:** AWS · Microsoft Azure · Google Cloud Platform (GCP) · Compute Canada
-</div>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/asheeshyadav1/asheeshyadav1/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+---
+
+### **Cloud Platforms**
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Compute%20Canada-CC0000?style=for-the-badge&logo=redhat&logoColor=white" />
+
 </div>
 
 <hr/>
