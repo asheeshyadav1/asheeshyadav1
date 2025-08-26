@@ -10,9 +10,9 @@
 
 <div align="center">
  
- ⛏️ I’m currently working at  **Beedie School of Business as an undergraduate research assistant**
+ ⛏️  I’m currently working at  **Beedie School of Business as an undergraduate research assistant**
  
-  📈 I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
+  📈  I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
 
  </div>
  
@@ -36,10 +36,8 @@
 <div align="center">
 
 ### **Languages**
-<br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,matlab" />
 <br/>
----
 
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
