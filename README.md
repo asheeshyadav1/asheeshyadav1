@@ -38,7 +38,7 @@
 ### **Languages**
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,matlab" />
 
----
+
 
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
@@ -50,12 +50,12 @@
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 <img src="https://img.shields.io/badge/Mockito-4DB33D?style=for-the-badge&logo=java&logoColor=white" />
 
----
+
 
 ### **Databases & Tools**
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
 
----
+
 
 ### **Cloud Platforms**
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
