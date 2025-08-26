@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/Compute%20Canada-2C2C2C?style=for-the-badge&logo=icloud&logoColor=white" />
 </div>
 <hr/>
-<br>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -55,6 +55,7 @@
   <br/><br/><br/>
 </div>
 <hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
