@@ -61,7 +61,9 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Compute%20Canada-CC0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<a href="https://www.computecanada.ca/">
+  <img src="https://www.computecanada.ca/wp-content/themes/cc/images/logo-cc-white-en.svg" height="28" />
+</a>
 
 </div>
 
