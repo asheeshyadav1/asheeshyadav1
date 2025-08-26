@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asheeshyadav1.asheeshyadav1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏾;+I'm+Asheesh;+What's+Yours?;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋🏾;I'm+Asheesh;Glad+you%E2%80%99re+here"/>
 </h1>
 
 <h3 align="center">Undergraduate Computer Science Student @ SFU</h3>
@@ -10,7 +10,7 @@
 
 <div align="center">
  
- ⛏️  I’m currently working at  **Beedie School of Business as an undergraduate research assistant**
+ ⛏️  I’m currently working at  **Beedie School of Business as an Undergraduate Research Assistant**
  
   📈  I’m currently learning **NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction**
 
