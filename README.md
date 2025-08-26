@@ -36,12 +36,14 @@
 <div align="center">
 
 ### **Languages**
+<br/>
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,matlab" />
-
+<br/>
 ---
 
 ### **Frameworks & Libraries**
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring,selenium" />
+<br/>
 <br/>
 **Also using:** Pandas · NumPy · Matplotlib · Leaflet · JUnit · Mockito
 
@@ -51,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github" />
 <br/>
 **Cloud Platforms:** AWS · Microsoft Azure · Google Cloud Platform (GCP) · Compute Canada
-
+<br/>
 </div>
 <hr/>
 
