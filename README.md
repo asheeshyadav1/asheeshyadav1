@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 💼 I build data pipelines, ML/NLP systems, and full-stack tools — most recently as a <b>Business Architecture Analyst @ Accenture</b>
+ 💼 I build data pipelines, ML/NLP systems, and full-stack tools, most recently as a <b>Business Architecture Analyst @ Accenture</b>
 
  📈📊 I’m currently learning <b>NLP Sentiment Analysis, Quantum Computing, Statistical Learning and Prediction</b>
 
@@ -30,16 +30,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-
-<hr/>
-
-<h2 align="center">🎓 Education</h2>
-
-**Simon Fraser University** — Burnaby, BC
-_B.Sc. in Computing Science · Expected Dec 2027_
-🏅 Dean’s Scholar Award, 2024
-
-<hr/>
 
 <h2 align="center">💼 Experience</h2>
 
