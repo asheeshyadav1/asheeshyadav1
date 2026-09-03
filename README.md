@@ -59,12 +59,12 @@ _May – Dec 2025 · Burnaby, BC_
 ### Sync &nbsp;·&nbsp; `Spring Boot` `Mockito` `Leaflet`
 - Engineered the backend and REST API for a social networking platform with secure authentication, role-based access control, and session consistency across distributed services.
 - Implemented token-based auth with multi-factor email verification and reached **90% test coverage** (JUnit/Mockito).
-> 🔗 _Add your Website / Source Code links here_
+
 
 ### NFL Fantasy Prediction &nbsp;·&nbsp; `PyTorch` `pgvector` `Kubernetes`
 - Trained a PyTorch sequence model projecting weekly NFL fantasy points on a leakage-safe temporal split, served as an independently scalable Kubernetes inference service.
 - Grounded an LLM in live injury/news data via pgvector RAG so it explains each start/sit call from the model’s projection and retrieved evidence — shipped through a GitHub Actions CI/CD pipeline.
-> 🔗 _Add your Source Code link here_
+
 
 <hr/>
 
