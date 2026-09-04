@@ -35,36 +35,28 @@
 
 ### Accenture — Business Architecture Analyst
 _Jun – Aug 2026 · Vancouver, BC_
-- Built a deterministic NLP classification engine in Python (24 modules, 66 unit tests) resolving phrase/keyword collisions via an interval-overlap algorithm with longest-match precedence and sliding-window negation handling.
-- Ran controlled A/B testing that lifted RAG recommendation quality from **71% → 93%**, grounding LLM output in a pgvector store and a deterministic scikit-learn ranker, hardened with an HNSW index and province-aware deduplication.
-- Developed **TypeRighter** (Next.js/TypeScript), a tool quantifying the time, energy, and CO₂ impact of AI prompts in real time via a single measurement-grade Gemini client with provider-verified token accounting.
-- Led a data migration of **150+ Excel/Power BI workbooks** onto Azure PostgreSQL, designing a six-schema dimensional model (13 facts, 19 dimensions) with row-level security.
+
+Built a deterministic NLP classification engine and lifted RAG recommendation quality from **71% → 93%**, developed **TypeRighter** (a tool measuring the time, energy, and CO₂ cost of AI prompts), and led a migration of **150+ Excel/Power BI workbooks** onto Azure PostgreSQL.
 
 ### GeoBC (Government of BC) — Geospatial Technician Co-op
 _Jan – May 2026 · Victoria, BC_
-- Diagnosed and fixed memory-allocation and parallel-processing bottlenecks in a Lake Detection Tool spanning **12,000+ km** of aerial survey data, cutting runtime from **24h → 3h (8×)** and eliminating recurring crashes.
-- Automated a manual geospatial QC workflow, replacing GUI inspection with a scripted Python pipeline (hours → seconds), adopted team-wide.
-- Prototyped an agentic AI QC pipeline using the Gemini API and authored the proposal that secured executive buy-in.
+
+Optimized a Lake Detection Tool over **12,000+ km** of aerial survey data, cutting runtime **8× (24h → 3h)**, and automated a manual geospatial QC workflow into a scripted Python pipeline adopted team-wide.
 
 ### SFU, Beedie School of Business — Undergraduate Research Assistant
 _May – Dec 2025 · Burnaby, BC_
-- Architected automated data ingestion on the Compute Canada Graham cluster (Python, Node.js, Bash), processing **50,000+ records/day** with schema validation and fault recovery.
-- Designed distributed ETL pipelines with incremental synchronization and PostgreSQL tuning across distributed environments.
-- Increased system throughput by **40%** under a 10,000-request/day API quota via caching, rate limiting, and concurrency control.
+
+Architected automated data ingestion and distributed ETL pipelines on the Compute Canada cluster, processing **50,000+ records/day** and increasing throughput by **40%** under a strict API quota.
 
 <hr/>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### Sync &nbsp;·&nbsp; `Spring Boot` `Mockito` `Leaflet`
-- Engineered the backend and REST API for a social networking platform with secure authentication, role-based access control, and session consistency across distributed services.
-- Implemented token-based auth with multi-factor email verification and reached **90% test coverage** (JUnit/Mockito).
-
+Engineered the backend and REST API for a social networking platform with secure token-based auth, role-based access control, and **90% test coverage** (JUnit/Mockito).
 
 ### NFL Fantasy Prediction &nbsp;·&nbsp; `PyTorch` `pgvector` `Kubernetes`
-- Trained a PyTorch sequence model projecting weekly NFL fantasy points on a leakage-safe temporal split, served as an independently scalable Kubernetes inference service.
-- Grounded an LLM in live injury/news data via pgvector RAG so it explains each start/sit call from the model’s projection and retrieved evidence — shipped through a GitHub Actions CI/CD pipeline.
-
+Trained a PyTorch model projecting weekly NFL fantasy points, served as a scalable Kubernetes inference service, with an LLM grounded in live injury/news data (pgvector RAG) to explain each start/sit call.
 
 <hr/>
 
